@@ -1,4 +1,47 @@
-Hi welcome to GIT
-Hello GIT
-Welcome GIT
-GIT 2 versions
+<html>
+<body>
+<body style="background-color:pink;">
+
+<title> JENKINS CI/CD PIPELINE </title>
+
+<h1 style="color:white;">This is a heading</h1>
+<p>This is a paragraph.</p>
+
+<u style="text-decoration-color:orange">
+<h1 style="color:blue;text-align:center;">This is my first website creation through browser hit <h1>
+</u>
+<h2 style="color:orange;">HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.w3schools.com">This is a link   :</a>
+
+
+<a href="https://www.w3schools.com/html/html_examples.asp"> This is HTML Coding Learning Website Link</a>
+
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+<button><a href="https://www.w3schools.com/html/html_examples.asp"> This is HTML Coding Learning Website Link</a></button>
+
+
+
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+
+
+</body>
+</html>
